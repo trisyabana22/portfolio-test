@@ -51,9 +51,15 @@
   margin-bottom: 1rem;
   /* background-color: white; */
   color: black;
-  transition: width 2s;
+  /* transition: width 2s; */
 }
 
-.activee:hover {
+/* .activee,
+.collapsible:hover {
+background-color: #0e9753;
+border: 2px solid #0e9753; */
+/* } */
+
+.isi .activee {
   height: 200px;
 }

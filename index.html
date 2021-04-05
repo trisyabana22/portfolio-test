@@ -474,8 +474,10 @@
           var isi = this.nextElementSibling;
           if (isi.style.display === "block") {
             isi.style.display = "none";
+            isi.style.transition = "all 2s";
           } else {
             isi.style.display = "block";
+            isi.style.transition = "all 2s";
           }
         });
       }
