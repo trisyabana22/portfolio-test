@@ -54,6 +54,6 @@
   transition: width 2s;
 }
 
-.activee:hover {
+.activee:active {
   height: 200px;
 }
