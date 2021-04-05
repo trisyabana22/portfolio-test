@@ -51,6 +51,7 @@
   margin-bottom: 1rem;
   /* background-color: white; */
   color: black;
+  transition: width 600ms ease-out, height 600ms ease-out;
 }
 
 /* .activee, */
