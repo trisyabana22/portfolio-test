@@ -51,11 +51,9 @@
   margin-bottom: 1rem;
   /* background-color: white; */
   color: black;
-  transition: width 600ms ease-out, height 600ms ease-out;
+  transition: width 2s;
 }
 
-/* .activee, */
-/* .collapsible:hover { */
-/* background-color: #0e9753; */
-/* border: 2px solid #0e9753; */
-/* } */
+.activee:hover {
+  height: 200px;
+}
